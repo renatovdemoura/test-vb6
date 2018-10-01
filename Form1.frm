@@ -39,7 +39,7 @@ Begin VB.Form Form1
          Strikethrough   =   0   'False
       EndProperty
       Height          =   1215
-      Left            =   5280
+      Left            =   3240
       TabIndex        =   5
       Top             =   2520
       Width           =   3735
@@ -146,6 +146,7 @@ End Sub
 
 Private Sub Command2_Click()
     'Abre o exemplo de boleto
+    'teste
     Form2.Show
 End Sub
 
