@@ -28,7 +28,7 @@ Begin VB.Form Form1
       Width           =   3735
    End
    Begin VB.CommandButton Command2 
-      Caption         =   "EXIBIR BOLETO"
+      Caption         =   "TESTE  "
       BeginProperty Font 
          Name            =   "MS Sans Serif"
          Size            =   18
@@ -39,9 +39,9 @@ Begin VB.Form Form1
          Strikethrough   =   0   'False
       EndProperty
       Height          =   1215
-      Left            =   3240
+      Left            =   5400
       TabIndex        =   5
-      Top             =   2520
+      Top             =   1440
       Width           =   3735
    End
    Begin VB.PictureBox Picture1 
