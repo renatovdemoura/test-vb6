@@ -147,6 +147,7 @@ End Sub
 Private Sub Command2_Click()
     'Abre o exemplo de boleto
     'teste
+    'teste de novo
     Form2.Show
 End Sub
 
