@@ -102,7 +102,7 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Private Sub Command1_Click()
-
+	'MASTER MASTER MASTER MASTER MASTER
     '=== Instalação da DLL ===
     '1) Leia o arquivo de instruções!!!
     '   Defina o local onde ficará a DLL
